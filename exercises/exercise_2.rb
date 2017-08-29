@@ -11,4 +11,4 @@ puts "----------"
 @store1.name = 'Gucci'
 @store1.save
 
-puts @store1.all
+puts @store1
